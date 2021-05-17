@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+    color: #333;
+}
+
+body {
+    background-color: #ecf0f1;
+}
+
+#header {
+    background-color: #95a5a6;
+}
+
+#navbarNav {
+    margin-left: 50%;
+}
+
+.banner {
+    padding: 15px;
+    margin-top: 15px;
+    margin-left: 24%;
+    background-color: #bdc3c7;
+    width: 720px;
+    height: 600px;
+    clear: both;
+}
+
+img {
+    margin: 20px;
+    width: 200px;
+}
+
+#content {
+    width: 450px;
+    float: right;
+}
+
+#content1 {
+    float: left;
+    padding: 15px;
+    width: auto;
+}
+
+
+#content h1 {
+    text-align: center;
+}
+
+/* Modul 3 bagian Skill/contact */
+#skills {
+    text-align: left;
+    padding-right: 30px;
+    float: right;
+}
+
+#skills .bar {
+    height: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 5px 0 20px 0;
+
+}
+
+#skills h1 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 15px;
+}
+
+.bar .nilai {
+
+    height: 10px;
+    background-color: #F84744;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+}
+
+.html {
+    width: 50%;
+}
+
+.css {
+    width: 60%;
+}
+
+.js {
+    width: 30%;
+}
+
+.php {
+    width: 40%;
+}
